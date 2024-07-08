@@ -32,8 +32,11 @@ Carefully read through the Jupyter notebooks and run them in order. The sequence
 1. `1.Urban_Sound_Pipeline`
 2. `2.Audioset_Pipeline`
 3. `3.Transfer_Learning_Pipeline`
+4. '4. ESC50_Pipeline'
 
 `4.Demo` is intended for demonstration purposes.
+
+
 
 ### Directory Structure
 
@@ -59,5 +62,13 @@ Project
     ├── Test
     ├── Train
     └── UrbanSound8K (Original Folder)
+└── ESC500
+    ├── CSVs
+    ├── Features
+    │   ├── CNN_Features  
+    ├── Test
+    ├── Train
+    └── ESC-50-master (Original Folder)
+
 ```
 
